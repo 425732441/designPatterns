@@ -1,7 +1,5 @@
 package com.zhl.createpattern.prototype;
 
-import com.sun.org.apache.bcel.internal.generic.NEW;
-
 /**
  * @author Zhanghualei
  * @Classname PrototypeExample
