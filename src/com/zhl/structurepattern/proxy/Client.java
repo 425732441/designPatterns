@@ -1,7 +1,5 @@
 package com.zhl.structurepattern.proxy;
 
-import java.lang.reflect.InvocationHandler;
-import java.lang.reflect.Method;
 
 /**
  * @author Zhanghualei
@@ -9,7 +7,7 @@ import java.lang.reflect.Method;
  * @Date 2021/1/13 17:08
  */
 public class Client {
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) {
         Proxy proxy = new Proxy();
         proxy.request();
     }
