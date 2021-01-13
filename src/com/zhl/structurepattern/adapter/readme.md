@@ -26,8 +26,10 @@
   
 类适配器模式的结构图如图 1 所示。  
 ![avatar](../../../../../resource/static/images/classAdapter.gif)  
-<center>图1 类适配器模式的结构图</center>  
+<center>图1 类适配器模式的结构图</center>    
   
+  
+    -----
 对象适配器模式的结构图如图 2 所示。    
   
 ![avatar](../../../../../resource/static/images/objectAdapter.gif)  
